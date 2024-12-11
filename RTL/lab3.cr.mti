@@ -1,0 +1,15 @@
+D:/Modelsim_files/vlsi/lab3/CRC_CODEC_tb.v {1 {vlog -work work -vopt -stats=none D:/Modelsim_files/vlsi/lab3/CRC_CODEC_tb.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module CRC_CODEC_tb
+
+Top level modules:
+	CRC_CODEC_tb
+
+} {} {}} D:/Modelsim_files/vlsi/lab3/CRC_CODEC.v {1 {vlog -work work -vopt -stats=none D:/Modelsim_files/vlsi/lab3/CRC_CODEC.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module CRC_CODEC
+
+Top level modules:
+	CRC_CODEC
+
+} {} {}}
